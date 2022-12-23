@@ -4,7 +4,7 @@ https://google.github.io/comprehensive-rust
 
 ## Commands
 
-```bash
+```shell
 cargo run // Run
 cargo build // Build
 cargo test // Test
