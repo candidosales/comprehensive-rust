@@ -40,3 +40,4 @@ cargo test // Test
   - 26.3. Propagating Errors with ?: https://google.github.io/comprehensive-rust/error-handling/try-operator.html
   - 26.4. Deriving Error Enums: https://google.github.io/comprehensive-rust/error-handling/deriving-error-enums.html
   - 26.5. Adding Context to Errors: https://google.github.io/comprehensive-rust/error-handling/error-contexts.html#adding-context-to-errors
+- 31. Concurrency: https://google.github.io/comprehensive-rust/concurrency.html
